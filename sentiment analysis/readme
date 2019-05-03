@@ -1,0 +1,2 @@
+amazon.py,imdb.py,yelp.py are the codes for sentiment analysis based on various n-gram features 
+new.py is the code for using various embeddings like bert,elmo,flair for performing sentiment analysis task and comparing their perfomances
